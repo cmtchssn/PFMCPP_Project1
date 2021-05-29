@@ -95,8 +95,8 @@ dog.wagTail();
 //  Noun:       fish
 //  action 1:   the fish swims
 fish.swim();
-//  action 2:   the fish breathes under water
-fish.breatheUnderWater();
+//  action 2:   the fish breathes underwater
+fish.breatheUnderwater();
 //  action 3:   the fish sucks on rocks
 fish.suckOnRock();
 //  7)
