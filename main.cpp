@@ -108,13 +108,13 @@ bee.buzz();
 //  action 3:   the bee collects pollen
 bee.collectPollen();
 //  8)
-//  Noun:       printer
-//  action 1:   the printer prints
-printer.print();
-//  action 2:   the printer uses ink
-printer.useInk();
-//  action 3:   the printer scans photos
-printer.scanPhoto();
+//  Noun:       bald eagle
+//  action 1:   the bald eagle hunts prey 
+baldEagle.huntsPrey();
+//  action 2:   the bald eagle mates for life
+baldEagle.mateForLife();
+//  action 3:   the bald eagle spreads its wings
+baldEagle.spreadWings();
 //  9)
 //  Noun:       audio interface
 //  action 1:   the audio interface samples analog signal
