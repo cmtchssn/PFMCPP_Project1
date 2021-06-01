@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       cat
+//  action 1:   the cat meows
+cat.meow();
+//  action 2:   the cat purrs
+cat.purr();
+//  action 3:   the cat sleeps
+cat.sleep();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       phone
+//  action 1:   the phone rings
+phone.ring();
+//  action 2:   the phone uses battery
+phone.useBattery();
+//  action 3:   the phone connects to wifi
+phone.connectToWifi();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       jacket
+//  action 1:   the jacket covers torso
+jacket.coverTorso();
+//  action 2:   the jacket warms torso
+jacket.warmTorso();
+//  action 3:   the jacket blocks wind
+jacket.blockWind();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       stove
+//  action 1:   the stove heats coils
+stove.heatCoil();
+//  action 2:   the stove keeps time
+stove.keepTime();
+//  action 3:   the stove retains heat
+stove.retainHeat();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       dog
+//  action 1:   the dog barks
+dog.bark();
+//  action 2:   the dog drools
+dog.drool();
+//  action 3:   the dog wags its tail
+dog.wagTail();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       fish
+//  action 1:   the fish swims
+fish.swim();
+//  action 2:   the fish breathes underwater
+fish.breatheUnderwater();
+//  action 3:   the fish sucks on rocks
+fish.suckOnRock();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       bee
+//  action 1:   the bee flies
+bee.fly();
+//  action 2:   the bee buzzes
+bee.buzz();
+//  action 3:   the bee collects pollen
+bee.collectPollen();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       bald eagle
+//  action 1:   the bald eagle hunts prey 
+baldEagle.huntsPrey();
+//  action 2:   the bald eagle mates for life
+baldEagle.mateForLife();
+//  action 3:   the bald eagle spreads its wings
+baldEagle.spreadWings();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       audio interface
+//  action 1:   the audio interface samples analog signal
+audioInterface.sampleAnalogSignal();
+//  action 2:   the audio interface shows input volume
+audioInterface.showInputVolume();
+//  action 3:   the audio interface quantizes analog amplitude
+audioInterface.quantizeAnalogAmplitude();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       person
+//  action 1:   the person eats food
+person.eatFood();
+//  action 2:   the person breathes air
+person.breatheAir();
+//  action 3:   the person walks upright
+person.walkUpright();
 
 
 #endif
